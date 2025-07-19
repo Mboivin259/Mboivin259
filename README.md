@@ -1,4 +1,4 @@
-![Power Platform Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Microsoft_Power_Platform_logo.png)
+(https://commons.m.wikimedia.org/wiki/File:Microsoft_Power_Platform_logo.svg#mw-jump-to-license)
 
 
 ## Hi there 👋
