@@ -23,5 +23,3 @@ This profile and repository are part of my experimentation and learning process.
 
 ✅ Sandbox access requested — awaiting approval.
 
-📔 [View progress journal](Journal.md)
-
