@@ -1,3 +1,5 @@
+![Power Platform Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Microsoft_Power_Platform_logo.png)
+
 ## Hi there 👋
 
 <!--
