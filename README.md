@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" alt="Power Platform logo" width="180"/>
+⁹<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" alt="Power Platform logo" width="180"/>
 
 # 👋 Welcome — No-code Power Platform Learner
 
