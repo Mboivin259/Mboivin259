@@ -1,5 +1,5 @@
-(https://commons.m.wikimedia.org/wiki/File:Microsoft_Power_Platform_logo.svg#mw-jump-to-license)
-
+![Power Platform logo]
+https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg
 
 ## Hi there 👋
 
