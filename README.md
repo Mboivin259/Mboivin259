@@ -2,11 +2,8 @@
 https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg
 
 ## Hi there 👋
-
 <!--
 **Mboivin259/Mboivin259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # 👋 Welcome — No-code Power Platform Learner
 
 ## About Me
