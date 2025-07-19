@@ -22,3 +22,6 @@ Create a working no-code solution using Microsoft 365 tools to manage real-world
 This profile and repository are part of my experimentation and learning process.
 
 ✅ Sandbox access requested — awaiting approval.
+
+📔 [View progress journal](./JOURNAL.md)
+
