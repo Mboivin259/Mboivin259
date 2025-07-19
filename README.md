@@ -3,14 +3,24 @@
 <!--
 **Mboivin259/Mboivin259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Welcome — No-code Power Platform Learner
+
+## About Me
+I'm currently learning Microsoft Power Platform (Power Apps, SharePoint, Power Automate) as part of a personal and professional development journey.
+
+## 🔧 Project in Progress
+I'm building a no-code business application prototype to manage administrative workflows (qualification requests, commissions, and document automation).
+
+## 🧰 Stack
+- Power Apps (UI)
+- SharePoint Lists (data)
+- Power Automate (flows)
+- GitHub (documentation)
+
+## 🎯 Objective
+Create a working no-code solution using Microsoft 365 tools to manage real-world workflows with document generation and approval tracking.
+
+This profile and repository are part of my experimentation and learning process.
+
+✅ Sandbox access requested — awaiting approval.
