@@ -15,11 +15,13 @@ I'm currently learning Microsoft Power Platform (Power Apps, SharePoint, Power A
 ## 🔧 Project in Progress
 I'm building a no-code business application prototype to manage administrative workflows (qualification requests, commissions, and document automation).
 
-## 🧰 Stack
-- Power Apps (UI)
-- SharePoint Lists (data)
-- Power Automate (flows)
-- GitHub (documentation)
+## 🧱 Stack Used
+
+- [x] [Microsoft Power Apps](https://powerapps.microsoft.com) (UI)  
+- [x] [SharePoint](https://sharepoint.com) (data backend)  
+- [x] [Power Automate](https://flow.microsoft.com) (workflow)  
+- [ ] [Power BI](https://powerbi.microsoft.com) (future reporting)  
+- [x] GitHub (project documentation)
 
 ## 🎯 Objective
 Create a working no-code solution using Microsoft 365 tools to manage real-world workflows with document generation and approval tracking.
