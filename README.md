@@ -32,8 +32,6 @@ I'm building a **no-code business application** to streamline administrative wor
 🟠 Sandbox request pending (Microsoft 365 Developer Program)  
 ✅ GitHub and Developer accounts successfully linked
 
-![Microsoft 365 Developer](https://img.shields.io/badge/Microsoft_365-Developer_Program-blue?logo=microsoft&logoColor=white&style=flat-square)
-
 ---
 
 ## 📘 Microsoft Learn Progress
@@ -44,7 +42,7 @@ As part of my no-code journey, I'm actively completing Microsoft Learn modules:
 - 🧩 [Customize a canvas app in Power Apps](https://learn.microsoft.com/api/achievements/share/en-us/MagaliBOIVIN-6869/E5XVXQXP?sharingId=C465FC8F59F186D2)
 
 ---
-
+![Microsoft 365 Developer](https://img.shields.io/badge/Microsoft_365-Developer_Program-blue?logo=microsoft&logoColor=white&style=flat-square)
 ## ✅ Developer Program
 
 I joined the **[Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program/)** to further explore the platform and build real-world prototypes.
