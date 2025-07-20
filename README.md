@@ -44,11 +44,9 @@ As part of my no-code journey, I'm actively completing Microsoft Learn modules:
 ---
 ## ✅ ![Microsoft 365 Developer](https://img.shields.io/badge/Microsoft_365-Developer_Program-blue?logo=microsoft&logoColor=white&style=flat-square)
 
-I joined the **[Microsoft 365 Developer Program.(https://developer.microsoft.com/en-us/microsoft-365/dev-program/)** 
-
-🔒 **Sandbox access requested — awaiting review.** 
-
-To further explore the platform and build real-world prototypes.
+I joined the **[Microsoft 365 Developer I joined the **[Microsoft 365 Developer Program]
+I joined the (https://developer.microsoft.com/en-us/microsoft-365/dev-program/)**
+🔒 **Sandbox access requested — awaiting review.** To further explore the platform and build real-world prototypes.
 
 ---
 
@@ -57,7 +55,6 @@ Track my learning activities and updates for the Microsoft 365 Developer Program
 ➡️ [View my progress journal](https://github.com/Mboivin259/QUALIFICATION-APP/blob/main/Journal.md)
 
 This repository is part of my journey to become a no-code developer specialized in Microsoft 365 tools.
-
 ---
 
 > 🇫🇷 *Ce projet est développé dans le cadre d'une montée en compétences sur la Power Platform pour moderniser les workflows du secteur public français.*
