@@ -21,5 +21,5 @@ Create a working no-code solution using Microsoft 365 tools to manage real-world
 
 This profile and repository are part of my experimentation and learning process.
 
-✅ Sandbox access requested — awaiting approval.
+✅ Sandbox for a Microsoft 365 Developer Program subscription  - Sandbox access requested — awaiting approval.
 
