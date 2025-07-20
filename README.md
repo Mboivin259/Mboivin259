@@ -1,4 +1,4 @@
-7<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" alt="Power Platform logo" width="180"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" alt="Power Platform logo" width="180"/>
 
 # 👋 Welcome — No-code Power Platform Learner
 
@@ -48,6 +48,12 @@ As part of my no-code journey, I'm actively completing Microsoft Learn modules:
 ## ✅ Developer Program
 
 I joined the **[Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program/)** to further explore the platform and build real-world prototypes.
+
+---
+
+📘 **Progress Journal**  
+Track my learning activities and updates for the Microsoft 365 Developer Program:  
+➡️ [View my progress journal](./qualification-app/journal.md)
 
 🔒 **Sandbox access requested — awaiting review.**  
 This repository is part of my journey to become a no-code developer specialized in Microsoft 365 tools.
