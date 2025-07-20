@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" alt="Power Platform logo" width="180"/>
+7<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" alt="Power Platform logo" width="180"/>
 
 # 👋 Welcome — No-code Power Platform Learner
 
@@ -31,6 +31,8 @@ I'm building a **no-code business application** to streamline administrative wor
 🟠 Initial documentation in progress  
 🟠 Sandbox request pending (Microsoft 365 Developer Program)  
 ✅ GitHub and Developer accounts successfully linked
+
+![Microsoft 365 Developer](https://img.shields.io/badge/Microsoft_365-Developer_Program-blue?logo=microsoft&logoColor=white&style=flat-square)
 
 ---
 
