@@ -53,7 +53,7 @@ I joined the **[Microsoft 365 Developer Program](https://developer.microsoft.com
 
 📘 **Progress Journal**  
 Track my learning activities and updates for the Microsoft 365 Developer Program:  
-➡️ [View my progress journal](./qualification-app/journal.md)
+➡️ [View my progress journal](https://github.com/Mboivin259/QUALIFICATION-APP/blob/main/Journal.md)
 
 🔒 **Sandbox access requested — awaiting review.**  
 This repository is part of my journey to become a no-code developer specialized in Microsoft 365 tools.
