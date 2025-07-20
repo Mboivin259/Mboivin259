@@ -45,7 +45,7 @@ As part of my no-code journey, I'm actively completing Microsoft Learn modules:
 ![Microsoft 365 Developer](https://img.shields.io/badge/Microsoft_365-Developer_Program-blue?logo=microsoft&logoColor=white&style=flat-square)
 ## ✅ Developer Program
 
-I joined the **[Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program/)** 
+I joined the **[Microsoft 365 Developer Program].(https://developer.microsoft.com/en-us/microsoft-365/dev-program/)** 
 
 🔒 **Sandbox access requested — awaiting review.** 
 
