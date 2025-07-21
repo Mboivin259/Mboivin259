@@ -36,21 +36,24 @@ I'm building a **no-code business application** to streamline administrative wor
 
 ## 📘 Microsoft Learn Progress
 
-As part of my no-code journey, I'm actively completing Microsoft Learn modules:
+🚀 I'm currently on a no-code learning journey focused on Microsoft 365 & Power Platform.  
+Here are some of the modules I've completed so far:
 
 - 🧩 [Get started with Power Apps canvas apps](https://learn.microsoft.com/api/achievements/share/en-us/MagaliBOIVIN-6869/E5XVXQXP?sharingId=C465FC8F59F186D2)
 - 🧩 [Customize a canvas app in Power Apps](https://learn.microsoft.com/api/achievements/share/en-us/MagaliBOIVIN-6869/E5XVXQXP?sharingId=C465FC8F59F186D2)
 
----
-## ✅ ![Microsoft 365 Developer](https://img.shields.io/badge/Microsoft_365-Developer_Program-blue?logo=microsoft&logoColor=white&style=flat-square)
+🧠 More in progress via [my full Learn profile](https://learn.microsoft.com/fr-fr/users/MagaliBOIVIN-6869)
 
 ---
 
-I joined the [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program/)  
-🔒 **Sandbox access requested — awaiting review.**  
-This is part of my journey to explore Microsoft 365 tools and build real-world no-code prototypes.
+## ✅ Microsoft 365 Developer Program
 
+![Microsoft 365 Developer](https://img.shields.io/badge/Microsoft_365-Developer_Program-blue?logo=microsoft&logoColor=white&style=flat-square)
 
+I've joined the [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program/).  
+🔒 **Sandbox access requested — currently pending.**  
+
+🧩 My goal: explore Power Platform, automate workflows, and prototype no-code business solutions with real-world tools.
 
 ---
 
