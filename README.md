@@ -37,11 +37,12 @@ I'm building a **no-code business application** to streamline administrative wor
 ## 📘 Microsoft Learn Progress
 
 🚀 I'm currently on a no-code learning journey focused on Microsoft 365 & Power Platform.  
-Here are some of the modules I've completed so far :
-- 🧩 . [Discover the business value of Microsoft Power Platform services]
-.(https://learn.microsoft.com/api/achievements/share/fr-fr/MagaliBOIVIN-6869/NVGLK6VF?sharingId=C465FC8F59F186D2)
+Here are some of the modules I've completed so far:
+
+- 🧩 [Discover the business value of Microsoft Power Platform services](https://learn.microsoft.com/api/achievements/share/fr-fr/MagaliBOIVIN-6869/NVGLK6VF?sharingId=C465FC8F59F186D2)
 - 🧩 [Get started with Power Apps canvas apps](https://learn.microsoft.com/api/achievements/share/en-us/MagaliBOIVIN-6869/E5XVXQXP?sharingId=C465FC8F59F186D2)
 - 🧩 [Customize a canvas app in Power Apps](https://learn.microsoft.com/api/achievements/share/en-us/MagaliBOIVIN-6869/E5XVXQXP?sharingId=C465FC8F59F186D2)
+
 
 🧠 More in progress via [my full Learn profile](https://learn.microsoft.com/fr-fr/users/MagaliBOIVIN-6869)
 
